@@ -22,6 +22,6 @@ const isChecked = true,
 
 console.log(isChecked && !isClosed);
 
-console.log(2 + 2 * 2 !== '6');
+console.log(2 + 2 * 2 === '6');
 
 
